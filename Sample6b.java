@@ -1,4 +1,4 @@
-class Sample4f {
+class Sample6b {
   public static void main(String[] args) {
     int i = 5;
     do {
