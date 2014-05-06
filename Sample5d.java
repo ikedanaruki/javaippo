@@ -1,4 +1,4 @@
-class Sample4d {
+class Sample5d {
   public static void main(String[] args) {
     int i = 30;
     if(i > 10) {
