@@ -1,22 +1,4 @@
-/*
-class Person {
-  int weight;
-  void eatCake(int g, int count) {
-    System.out.println(g + "gのケーキを"+ count +"個食べます");
-    weight = weight + g * count / 1000;
-  }
-
-  void printWeight() {
-    System.out.println(weight);
-  }
-
-  int getWeight() {
-    return weight; 
-  }  
-}
-*/
-
-class Sample5a {
+class Sample9 {
   public static void main(String[] args) {
     Person p1 = new Person();
     Person p2 = new Person();
