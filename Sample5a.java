@@ -1,4 +1,4 @@
-class Sample4a {
+class Sample5a {
   public static void main(String[] args) {
     int i = 10;
     if(i == 10) {
