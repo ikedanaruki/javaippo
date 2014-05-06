@@ -1,4 +1,4 @@
-class Sample4h {
+class Sample7a {
   public static void main(String[] args) {
     int i;
     for(i = 0; i < 5; i++) {
