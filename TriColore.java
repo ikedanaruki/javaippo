@@ -10,6 +10,6 @@ public class TriColore extends Applet {
 	g.setColor(Color.white);
 	g.fillRect(71,21,49,99);
 	g.setColor(Color.red);
-	g.fillRect(120,21,50,99);
+	g.fillRect(121,21,49,99);
   }
 }
