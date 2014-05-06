@@ -1,4 +1,4 @@
-class Sample4g {
+class Sample6c {
   public static void main(String[] args) {
     int i = 0;
     while(i < 5) {
